@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify31f9f96543ee4-staging-03304-authRole",
+      "UnauthRoleArn": "arn:aws:iam::975050119749:role/amplify-amplify31f9f96543ee4-staging-03304-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::975050119749:role/amplify-amplify31f9f96543ee4-staging-03304-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplify31f9f96543ee4-staging-03304-deployment",
+      "UnauthRoleName": "amplify-amplify31f9f96543ee4-staging-03304-unauthRole",
+      "StackName": "amplify-amplify31f9f96543ee4-staging-03304",
+      "StackId": "arn:aws:cloudformation:us-east-1:975050119749:stack/amplify-amplify31f9f96543ee4-staging-03304/1b9a1c10-d1e3-11ee-95ea-0ecdb91be86d",
+      "AmplifyAppId": "dd076i9sksvwu"
+    },
+    "categories": {
+      "auth": {
+        "c1t1bankingapp77628993": {}
+      }
+    }
+  }
+}
