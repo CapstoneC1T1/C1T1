@@ -1,4 +1,11 @@
 export type AmplifyDependentResourcesAttributes = {
+  "api": {
+    "c1t1bankingapp": {
+      "GraphQLAPIEndpointOutput": "string",
+      "GraphQLAPIIdOutput": "string",
+      "GraphQLAPIKeyOutput": "string"
+    }
+  },
   "auth": {
     "c1t1bankingapp77628993": {
       "AppClientID": "string",
@@ -8,6 +15,12 @@ export type AmplifyDependentResourcesAttributes = {
       "UserPoolArn": "string",
       "UserPoolId": "string",
       "UserPoolName": "string"
+    }
+  },
+  "storage": {
+    "imagestorage": {
+      "BucketName": "string",
+      "Region": "string"
     }
   }
 }
